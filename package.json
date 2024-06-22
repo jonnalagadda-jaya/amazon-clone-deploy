@@ -1,7 +1,7 @@
 {
+  "homepage": "https://jonnalagadda-jaya.github.io/amazon-clone-deploy",
   "name": "amazon",
   "version": "0.1.0",
-  "homepage": "http://jonnalagadda-jaya.github.io/Amazon-Clone",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
